@@ -1,0 +1,5 @@
+Citizen.Trace('^0======================================================================^7 \n')
+Citizen.Trace('^0[^4Author^0] ^7:^0 ^5"GAYA Devellopement^7 \n')
+Citizen.Trace('^0[^7Version^0] ^7:^0 ^01.0^7 \n')
+Citizen.Trace('^0[^1Support^0] ^7https://discord.gg/uaYK2AN \n')
+Citizen.Trace('^0======================================================================^7 \n')
